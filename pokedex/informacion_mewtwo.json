@@ -1,0 +1,18 @@
+{
+    "pokemons": [
+        {
+            "nombre": "mewtwo",
+            "altura": 20,
+            "peso": 1220,
+            "movimientos": 167,
+            "habilidades": [
+                "pressure",
+                "unnerve"
+            ],
+            "tipos": [
+                "psychic"
+            ],
+            "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+        }
+    ]
+}

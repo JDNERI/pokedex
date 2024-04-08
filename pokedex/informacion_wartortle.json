@@ -1,0 +1,18 @@
+{
+    "pokemons": [
+        {
+            "nombre": "wartortle",
+            "altura": 10,
+            "peso": 225,
+            "movimientos": 101,
+            "habilidades": [
+                "torrent",
+                "rain-dish"
+            ],
+            "tipos": [
+                "water"
+            ],
+            "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+        }
+    ]
+}

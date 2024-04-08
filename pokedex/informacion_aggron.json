@@ -1,0 +1,20 @@
+{
+    "pokemons": [
+        {
+            "nombre": "aggron",
+            "altura": 21,
+            "peso": 3600,
+            "movimientos": 121,
+            "habilidades": [
+                "sturdy",
+                "rock-head",
+                "heavy-metal"
+            ],
+            "tipos": [
+                "steel",
+                "rock"
+            ],
+            "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png"
+        }
+    ]
+}

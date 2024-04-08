@@ -1,0 +1,19 @@
+{
+    "pokemons": [
+        {
+            "nombre": "arbok",
+            "altura": 35,
+            "peso": 650,
+            "movimientos": 101,
+            "habilidades": [
+                "intimidate",
+                "shed-skin",
+                "unnerve"
+            ],
+            "tipos": [
+                "poison"
+            ],
+            "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+        }
+    ]
+}

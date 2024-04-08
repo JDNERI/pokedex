@@ -1,0 +1,18 @@
+{
+    "pokemons": [
+        {
+            "nombre": "pikachu",
+            "altura": 4,
+            "peso": 60,
+            "movimientos": 105,
+            "habilidades": [
+                "static",
+                "lightning-rod"
+            ],
+            "tipos": [
+                "electric"
+            ],
+            "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pokemons": [
+        {
+            "nombre": "charmander",
+            "altura": 6,
+            "peso": 85,
+            "movimientos": 105,
+            "habilidades": [
+                "blaze",
+                "solar-power"
+            ],
+            "tipos": [
+                "fire"
+            ],
+            "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+        }
+    ]
+}

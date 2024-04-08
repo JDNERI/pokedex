@@ -1,0 +1,18 @@
+{
+    "pokemons": [
+        {
+            "nombre": "squirtle",
+            "altura": 5,
+            "peso": 90,
+            "movimientos": 106,
+            "habilidades": [
+                "torrent",
+                "rain-dish"
+            ],
+            "tipos": [
+                "water"
+            ],
+            "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+        }
+    ]
+}
